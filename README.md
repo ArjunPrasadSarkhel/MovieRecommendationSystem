@@ -1,5 +1,5 @@
 # Movie Recommendation System Engine
-![MovieImg](https://imgur.com/a/4deVTQE)
+![MovieImg](https://imgur.com/a/4deVTQE.png)
 
 Movie Recom
 
