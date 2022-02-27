@@ -5,6 +5,7 @@
 
 ### After doing some pre-processing i used stemming & used tf-idf vectorizer for vectorization and then calculated cossine similarity between all the vector points.
 ### The cossine similarity matrix (named as - similarity.pkl), is deployed on azure-blob storage, and it's retrieved from there, hence the app takes 5min when it's started for the first time
+### Used Streamlit to build the webapp and deploy the code. **(Streamlit code - app.py)**
 ### I also have used docker container so it will be ready to deploy anywhere on the web.
 
 ## Video-Link 
