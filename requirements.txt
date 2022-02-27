@@ -1,0 +1,4 @@
+pandas
+streamlit
+requests
+azure-storage-blob
